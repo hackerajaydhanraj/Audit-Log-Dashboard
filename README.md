@@ -1,4 +1,4 @@
-# Audit Log Console
+# Audit Log Dashboard
 
 A dashboard for security engineers to bulk-upload, view, and investigate system audit logs. Built with React, Node.js/Express, and MongoDB.
 
