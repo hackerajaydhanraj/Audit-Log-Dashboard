@@ -1,0 +1,14 @@
+[
+  {
+    "actor":"john@gmail.com",
+    "role":"Admin",
+    "action":"LOGIN",
+    "severity":"LOW",
+    "status":"Resolved",
+    "region":"India",
+    "ipAddress":"192.168.1.10",
+    "resourceType":"User",
+    "resource":"Employee Portal",
+    "timestamp":"2026-07-24T10:00:00Z"
+  }
+]

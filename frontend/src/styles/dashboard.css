@@ -1,0 +1,80 @@
+.table {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.table thead th {
+    position: sticky;
+    top: 0;
+    background: #212529;
+    color: white;
+}
+
+.table tbody tr:hover {
+    background-color: #f5f5f5;
+    transition: .2s;
+}
+
+.badge {
+    font-size: 14px;
+    padding: 8px 12px;
+    border-radius: 20px;
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+.table th {
+    text-align: center;
+}
+
+.table td {
+    text-align: center;
+}
+
+.dashboard-card{
+
+    border-radius:15px;
+
+    transition:0.3s;
+
+    cursor:pointer;
+
+    box-shadow:0 4px 12px rgba(0,0,0,.08);
+
+}
+
+.dashboard-card:hover{
+
+    transform:translateY(-8px);
+
+    box-shadow:0 10px 25px rgba(0,0,0,.15);
+
+}
+
+.dashboard-card h2{
+
+    font-weight:bold;
+
+    margin-top:10px;
+
+}
+
+.dashboard-card svg{
+
+    opacity:.85;
+
+}
+
+.chart-container{
+
+    margin-top:40px;
+
+}
+
+canvas{
+
+    max-height:350px;
+
+}
